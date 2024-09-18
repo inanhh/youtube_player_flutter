@@ -15,6 +15,7 @@ dependencies:
     git:
       url: https://github.com/inanhh/flutter_inappwebview.git
       path: flutter_inappwebview
+      branch: v6.0.0
 
 dev_dependencies:
   flutter_test:

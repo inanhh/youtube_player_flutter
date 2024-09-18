@@ -14,7 +14,7 @@ dependencies:
   flutter_inappwebview:
     git:
       url: https://github.com/inanhh/flutter_inappwebview.git
-      ref: e07ccb1
+      ref: 785720d
       path: flutter_inappwebview
 
 dev_dependencies:

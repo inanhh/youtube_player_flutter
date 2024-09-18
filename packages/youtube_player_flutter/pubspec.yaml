@@ -14,9 +14,8 @@ dependencies:
   flutter_inappwebview:
     git:
       url: https://github.com/inanhh/flutter_inappwebview.git
-      ref: ec5c212
+      ref: dec3034
       path: flutter_inappwebview
-
       
 dev_dependencies:
   flutter_test:
